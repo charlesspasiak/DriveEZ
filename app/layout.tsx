@@ -2,7 +2,7 @@ import { Footer, Navbar } from '@/components';
 import './globals.css';
 
 export const metadata = {
-  title: 'Car Hub',
+  title: 'Drive EZ',
   description: 'Discover the best cars in the world.',
 };
 
